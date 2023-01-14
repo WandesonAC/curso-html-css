@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+* {
+    text-align: center;
+}
+
+h1 {
+    background-color: steelblue;
+    border-style: dotted;
+    height: 100px;
+    padding-top: 50px;
+    margin: 10px;
+    outline-style: double;
+}
+
+h2 {
+    background-color: brown;
+    height: 100px;
+    padding-top: 50px;
+}
+
+div {
+    background-color: chocolate;
+    height: 100px;
+}
